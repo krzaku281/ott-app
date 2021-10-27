@@ -1,0 +1,9 @@
+.background {
+  height: 100%;
+}
+
+.centeredCard {
+  width: 400px;
+  border: none;
+  background: none;
+}
